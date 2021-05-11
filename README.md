@@ -1,31 +1,20 @@
-# Blank
+# Maryame Bennani (Static Site)
 
-Blank — starter [Hugo](https://gohugo.io/) theme for developers. Use it to make your own theme.
+## Usage
 
-[Live Demo](https://themes.gohugo.io/theme/blank/)
-
-![Blank theme screenshot](https://github.com/Vimux/blank/blob/master/images/splash.png)
-
-## Installation
-
-In your Hugo site `themes` directory, run:
-
-```
-git clone https://github.com/vimux/blank
-```
-
-Next, open `config.toml` in the base of the Hugo site and ensure the theme option is set to `blank`.
-
-```
-theme = "blank"
-```
-
-For more information read the official [quick start guide](https://gohugo.io/getting-started/quick-start/) of Hugo.
+    hugo serve
+    hugo build
 
 ## Contributing
 
-Have you found a bug or got an idea for a new feature? Feel free to use the [issue tracker](https://github.com/Vimux/blank/issues) to let me know. Or make directly a [pull request](https://github.com/Vimux/blank/pulls).
-
 ## License
 
-This theme is released under the [MIT license](https://github.com/Vimux/blank/blob/master/LICENSE).
+## Reference
+
+Mobile design: https://xd.adobe.com/view/ef071051-0c80-4a81-8bb3-d2b6a0a5e93f-ba54/
+
+Desktop design: https://xd.adobe.com/view/dec89637-6218-4c7c-b0e6-f3e482a75688-8b9b/
+
+Contact: maryamebennani@gmail.com
+
+Legal mentions: https://gist.github.com/glenux/0c72928912a6e18bf990eb008580c668
