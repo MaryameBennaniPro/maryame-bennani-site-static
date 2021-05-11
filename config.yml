@@ -3,6 +3,11 @@ languageCode: "fr-fr"
 title: "Maryame Bennani"
 mainSections: ['pages']
 
+ignoreFiles:
+  - README.md
+  - config.yml
+  - LICENSE
+
 menu:
   main:
     - name: À propos
