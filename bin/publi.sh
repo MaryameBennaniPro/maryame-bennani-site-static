@@ -4,21 +4,22 @@ set -x
 set -u
 set -e
 
-BRANCH=public-pages
+SITE_DIR=public
+SITE_BRANCH=public-pages
 
 # Cleanup
-git worktree remove -f _site || true
-rm -rf _site/ || true
+git worktree remove -f $SITE_DIR || true
+rm -rf "$SITE_DIR" || true
 
 # Link to branch
-git worktree add -B $BRANCH _site origin/$BRANCH || true
+git worktree add -B "$SITE_BRANCH" $SITE_DIR "origin/$SITE_BRANCH" || true
 
 # Build
 hugo
 
 # Commit new changes
-cd public
+cd "$SITE_DIR"
 git add --all
-git commit -m "`date`"
-git push origin $BRANCH:$BRANCH
+git commit -m "$(date)"
+git push origin $SITE_BRANCH:$SITE_BRANCH
 cd ..
