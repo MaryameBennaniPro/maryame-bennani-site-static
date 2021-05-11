@@ -15,7 +15,7 @@ rm -rf "$SITE_DIR" || true
 git worktree add -B "$SITE_BRANCH" $SITE_DIR "origin/$SITE_BRANCH" || true
 
 # Build
-hugo
+hugo -b /maryame-bennani-site-static/
 
 # Commit new changes
 cd "$SITE_DIR"
