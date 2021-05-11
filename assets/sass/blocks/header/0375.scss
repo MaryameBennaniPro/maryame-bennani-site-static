@@ -1,0 +1,98 @@
+
+#header {
+  height: 64px;
+  background-color: white;
+  box-shadow: 0px 4px 23px #CAD0EB65;
+  padding: 20px 40px;
+  position: relative;
+
+  a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #3B3B3B;
+    font-family: $fontSecondary;
+  }
+
+  nav {
+    position: relative;
+    top: -20px;
+  }
+
+  #menu { display: none; }
+
+  #menu-toggle {
+    width: 18px;
+    height: 17px;
+    float: right;
+    position: relative;
+    right: -10px;
+    // outline: 1px solid red;
+
+    input {
+      display: block;
+      width: 18px;
+      height: 17px;
+      overflow: hidden;
+      position: absolute;
+      top: -4px;
+      right: -5px;
+      // background-color: red;
+      outline: 1px solid red;
+
+      cursor: pointer;
+
+      opacity: 0; //.25; /* hide this */
+      z-index: 2; /* and place it over the hamburger */
+
+      -webkit-touch-callout: none;
+    }
+
+
+    // Just a quick hamburger
+    span {
+      display: block;
+      width: 18px;
+      height: 2px;
+      margin-bottom: 6px;
+      position: relative;
+
+      background: $colorBlackLight;
+      border-radius: 2px;
+
+      z-index: 1;
+
+      transform-origin: 4px 0px;
+      transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+      background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+      opacity 0.55s ease;
+
+      &:first-child {
+        transform-origin: 0% 0%;
+      }
+
+      &:nth-last-child(2) {
+        transform-origin: 0% 100%;
+      }
+    }
+
+    // Transform all the slices of hamburger into a crossmark.
+    input:checked ~ span {
+      opacity: 1;
+      transform: rotate(-45deg) translate(1px, -4px);
+      // background: #232323;
+
+      // But let's hide the middle one.
+      &:nth-last-child(2) {
+        opacity: 0;
+        transform: rotate(0deg) scale(0.2, 0.2);
+      }
+
+      // The last one should go the other direction
+      &:nth-last-child(3)
+      {
+        opacity: 1;
+        transform: rotate(45deg) translate(3px, 4px);
+      }
+    }
+  }
+}

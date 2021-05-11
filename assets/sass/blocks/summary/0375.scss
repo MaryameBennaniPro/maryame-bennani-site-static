@@ -1,0 +1,31 @@
+.block-summary {
+  .button {
+     background-color: $colorPurpleDim;
+     color: white;
+     border-radius: 20px;
+     height: 42px;
+
+     a {
+       font-weight: 400;
+       display: flex;
+       height: inherit;
+       width: inherit;
+       padding: 10px 40px 10px 35px;
+       color: white;
+       text-decoration: none;
+       text-align: left;
+       justify-content: start;
+       align-items: center;
+       position: relative;
+
+       &::after {
+         content: ">";
+         width: 15px;
+         height: 15px;
+         right: 35px;
+         background-color: green;
+         position: absolute;
+       }
+     }
+  }
+}
