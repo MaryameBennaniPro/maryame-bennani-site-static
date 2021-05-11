@@ -1,0 +1,16 @@
+baseURL: "http://example.org/"
+languageCode: "fr-fr"
+title: "Maryame Bennani"
+mainSections: ['pages']
+
+menu:
+  main:
+    - name: À propos
+      url: /a-propos/
+      weight: -120
+    - name: Études de cas
+      url: /etude-de-cas/
+      weight: -110
+    - name: Contact
+      url: /contact/
+      weight: -100
