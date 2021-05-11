@@ -20,5 +20,5 @@ hugo
 cd public
 git add --all
 git commit -m "`date`"
-git push origin $BRANCH
+git push origin $BRANCH:$BRANCH
 cd ..
