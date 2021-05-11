@@ -9,7 +9,7 @@ SITE_BRANCH=public-pages
 
 # Cleanup
 git worktree remove -f "$SITE_DIR" || true
-rm -rf _site/ || true
+rm -rf "$SITE_DIR" || true
 
 # Link to branch
 git worktree add -B "$SITE_BRANCH" "$SITE_DIR" "origin/$SITE_BRANCH" || true
