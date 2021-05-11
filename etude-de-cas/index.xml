@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Etude-de-cas on Maryame Bennani</title>
-    <link>http://example.org/etude-de-cas/</link>
+    <link>/maryame-bennani-site-static/etude-de-cas/</link>
     <description>Recent content in Etude-de-cas on Maryame Bennani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/etude-de-cas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/maryame-bennani-site-static/etude-de-cas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dayra (2.0)</title>
-      <link>http://example.org/etude-de-cas/dayra/</link>
+      <link>/maryame-bennani-site-static/etude-de-cas/dayra/</link>
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/etude-de-cas/dayra/</guid>
+      <guid>/maryame-bennani-site-static/etude-de-cas/dayra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mchina</title>
-      <link>http://example.org/etude-de-cas/mchina/</link>
+      <link>/maryame-bennani-site-static/etude-de-cas/mchina/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/etude-de-cas/mchina/</guid>
+      <guid>/maryame-bennani-site-static/etude-de-cas/mchina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bricall</title>
-      <link>http://example.org/etude-de-cas/bricall/</link>
+      <link>/maryame-bennani-site-static/etude-de-cas/bricall/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/etude-de-cas/bricall/</guid>
+      <guid>/maryame-bennani-site-static/etude-de-cas/bricall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ziny</title>
-      <link>http://example.org/etude-de-cas/ziny/</link>
+      <link>/maryame-bennani-site-static/etude-de-cas/ziny/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/etude-de-cas/ziny/</guid>
+      <guid>/maryame-bennani-site-static/etude-de-cas/ziny/</guid>
       <description></description>
     </item>
     

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Maryame Bennani</title>
-    <link>http://example.org/page/</link>
+    <link>/maryame-bennani-site-static/page/</link>
     <description>Recent content in Pages on Maryame Bennani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Sat, 01 May 2021 17:35:43 +0200</lastBuildDate><atom:link href="http://example.org/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 May 2021 17:35:43 +0200</lastBuildDate><atom:link href="/maryame-bennani-site-static/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mentions légales</title>
-      <link>http://example.org/page/legal-mentions/</link>
+      <link>/maryame-bennani-site-static/page/legal-mentions/</link>
       <pubDate>Sat, 01 May 2021 17:35:43 +0200</pubDate>
       
-      <guid>http://example.org/page/legal-mentions/</guid>
+      <guid>/maryame-bennani-site-static/page/legal-mentions/</guid>
       <description>Mentions légales Acceptation de fait En utilisant MARYAMEBENNANI.COM, l’internaute prend note et accepte les conditions ici après énumérées.
 Propriétaire / Éditeur MARYAMEBENNANI.COM est un site web édité par Maryame Bennani et publié sous la direction de Maryame Bennani.
 L’ensemble du site MARYAMEBENNANI.COM, pages et contenus, est la propriété de Maryame Bennani.

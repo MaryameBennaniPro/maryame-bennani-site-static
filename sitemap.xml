@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/a-propos/</loc>
+    <loc>/maryame-bennani-site-static/a-propos/</loc>
     <lastmod>2021-05-01T18:33:45+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/page/legal-mentions/</loc>
+    <loc>/maryame-bennani-site-static/page/legal-mentions/</loc>
     <lastmod>2021-05-01T17:35:43+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/page/</loc>
+    <loc>/maryame-bennani-site-static/page/</loc>
     <lastmod>2021-05-01T17:35:43+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>/maryame-bennani-site-static/</loc>
     <lastmod>2021-05-01T17:35:43+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/etude-de-cas/dayra/</loc>
+    <loc>/maryame-bennani-site-static/etude-de-cas/dayra/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/etude-de-cas/</loc>
+    <loc>/maryame-bennani-site-static/etude-de-cas/</loc>
     <lastmod>2021-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/etude-de-cas/mchina/</loc>
+    <loc>/maryame-bennani-site-static/etude-de-cas/mchina/</loc>
     <lastmod>2021-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/etude-de-cas/bricall/</loc>
+    <loc>/maryame-bennani-site-static/etude-de-cas/bricall/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/etude-de-cas/ziny/</loc>
+    <loc>/maryame-bennani-site-static/etude-de-cas/ziny/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>/maryame-bennani-site-static/contact/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/maryame-bennani-site-static/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/maryame-bennani-site-static/tags/</loc>
   </url>
 </urlset>
