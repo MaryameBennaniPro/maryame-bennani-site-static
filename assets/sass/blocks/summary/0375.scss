@@ -18,13 +18,8 @@
        align-items: center;
        position: relative;
 
-       &::after {
-         content: ">";
-         width: 15px;
-         height: 15px;
-         right: 35px;
-         background-color: green;
-         position: absolute;
+       .fas {
+         margin-left: 30px;
        }
      }
   }

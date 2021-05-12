@@ -1,7 +1,7 @@
 
 @import "config/fonts.scss";
 @import "config/constants.scss";
-@import "config/bootstrap.scss";
+// @import "config/bootstrap.scss";
 
 
 
@@ -13,3 +13,15 @@
 @import "blocks/footer/0375.scss";
 @import "blocks/summary/0375.scss";
 
+
+/**
+ * External libraries
+ */
+@import "ext/font-awesome5/scss/fontawesome.scss";
+@import "ext/font-awesome5/scss/fa-brands.scss";
+@import "ext/font-awesome5/scss/fa-solid.scss";
+@import "ext/font-awesome5/scss/fa-regular.scss";
+@import "ext/font-awesome5/scss/v4-shims.scss";
+//@import "ext/font-awesome5/css/all.css";
+// @import "ext/font-awesome5/css/v4-shims.css";
+// @import "ext/bootstrap/bootstrap";
